@@ -1,0 +1,8 @@
+body{
+    background: red;
+}
+.container-fluid{
+    margin-top: 15%;
+    color: white; 
+    text-align: center;
+}
